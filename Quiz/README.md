@@ -56,33 +56,6 @@ Quiz/
 - Button hover effects, correct/incorrect answer animations.
 - Smooth transitions for screens and progress bar.
 
-## Learning Opportunities
-- **JavaScript:**
-  - DOM manipulation and dynamic content rendering.
-  - Event listeners and handling user interactions.
-  - Timers with `setInterval` and `clearInterval`.
-  - Conditional logic and state management for quizzes.
-- **CSS:**
-  - Responsive design and media queries.
-  - Flexbox layout for answers and quiz info.
-  - Animations and transitions for interactive elements.
-- **HTML:**
-  - Semantic structure for multiple screens.
-  - Proper use of headings, buttons, and containers.
-- **Project Expansion Ideas:**
-  - Add different categories of quizzes.
-  - Implement local storage to save high scores.
-  - Add sound effects or background music.
-  - Add more complex animations for buttons and progress bar.
-  - Fetch questions dynamically from an API.
-
-## How to Run
-1. Clone the repository.
-2. Open `index.html` in a web browser.
-3. Click "Launch Quiz" to start and answer questions.
-4. View results and restart the quiz if desired.
-
-
 ## Quiz Flow
 
 ```mermaid
@@ -102,3 +75,9 @@ flowchart TD
     K --> L[Display score & message]
     L --> M[Option to restart]
 ```
+
+## How to Run
+1. Clone the repository.
+2. Open `index.html` in a web browser.
+3. Click "Launch Quiz" to start and answer questions.
+4. View results and restart the quiz if desired.
