@@ -88,7 +88,7 @@ Quiz/
 ```mermaid
 flowchart TD
     A[Start Quiz] --> B[Start Screen]
-    B -->|Click "Launch Quiz"| C[Quiz Screen]
+    B -->|Click Launch Quiz| C[Quiz Screen]
     C --> D[Load Current Question]
     D --> E[Start 10-second Timer]
     E --> F{User selects answer?}
